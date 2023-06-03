@@ -1,0 +1,105 @@
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe.config
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.pdb
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\obj\Debug\MainWindow.g.cs
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\obj\Debug\App.g.cs
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.cache
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.lref
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\obj\Debug\MainWindow.baml
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.g.resources
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.Properties.Resources.resources
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.GenerateResource.cache
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.CoreCompileInputs.cache
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.exe
+D:\Crypto\Part 2\Lab_6\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.pdb
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe.config
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.pdb
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\MainWindow.g.cs
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\App.g.cs
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.cache
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.lref
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\MainWindow.baml
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.g.resources
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.Properties.Resources.resources
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.GenerateResource.cache
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.CoreCompileInputs.cache
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.exe
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.pdb
+D:\Crypto\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csprojAssemblyReference.cache
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe.config
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.pdb
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csprojAssemblyReference.cache
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\MainWindow.g.cs
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\App.g.cs
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.cache
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.lref
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\MainWindow.baml
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.g.resources
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.Properties.Resources.resources
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.GenerateResource.cache
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.CoreCompileInputs.cache
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.exe
+D:\BSTU\III\II sem\Cryptography\LABS\By Yura\Part 2\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.pdb
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe.config
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.pdb
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\MainWindow.g.cs
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\App.g.cs
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.cache
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.lref
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\MainWindow.baml
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.g.resources
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.Properties.Resources.resources
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.GenerateResource.cache
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.CoreCompileInputs.cache
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.exe
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.pdb
+D:\BSTU\III\II sem\Cryptography\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csprojAssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe.config
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\MainWindow.g.cs
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\App.g.cs
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.lref
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\MainWindow.baml
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.g.resources
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.Properties.Resources.resources
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.GenerateResource.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe.config
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\MainWindow.g.cs
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\App.g.cs
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.lref
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\MainWindow.baml
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.g.resources
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.Properties.Resources.resources
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.GenerateResource.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.pdb
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe.config
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.exe
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\bin\Debug\Lab_6_EG_Enc.pdb
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.AssemblyReference.cache
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.SuggestedBindingRedirects.cache
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\MainWindow.g.cs
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\App.g.cs
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.cache
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc_MarkupCompile.lref
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\MainWindow.baml
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.g.resources
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.Properties.Resources.resources
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.GenerateResource.cache
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.csproj.CoreCompileInputs.cache
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.exe
+D:\BSTU\Crypta\practika\Cripta_Lab12\Lab_10\Lab_6_EG_Enc\obj\Debug\Lab_6_EG_Enc.pdb

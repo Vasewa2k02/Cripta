@@ -1,0 +1,41 @@
+D:\BSTU\III\II sem\Cryptography\lab_10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.exe
+D:\BSTU\III\II sem\Cryptography\lab_10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.deps.json
+D:\BSTU\III\II sem\Cryptography\lab_10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.runtimeconfig.json
+D:\BSTU\III\II sem\Cryptography\lab_10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.runtimeconfig.dev.json
+D:\BSTU\III\II sem\Cryptography\lab_10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.dll
+D:\BSTU\III\II sem\Cryptography\lab_10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.pdb
+D:\BSTU\III\II sem\Cryptography\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.csprojAssemblyReference.cache
+D:\BSTU\III\II sem\Cryptography\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.AssemblyInfoInputs.cache
+D:\BSTU\III\II sem\Cryptography\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.AssemblyInfo.cs
+D:\BSTU\III\II sem\Cryptography\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.csproj.CoreCompileInputs.cache
+D:\BSTU\III\II sem\Cryptography\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.dll
+D:\BSTU\III\II sem\Cryptography\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.pdb
+D:\BSTU\III\II sem\Cryptography\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.genruntimeconfig.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.deps.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.runtimeconfig.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.runtimeconfig.dev.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.AssemblyInfoInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.AssemblyInfo.cs
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.genruntimeconfig.cache
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.exe
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.deps.json
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.runtimeconfig.json
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.runtimeconfig.dev.json
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.dll
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.pdb
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.csproj.AssemblyReference.cache
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.GeneratedMSBuildEditorConfig.editorconfig
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.AssemblyInfoInputs.cache
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.AssemblyInfo.cs
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.csproj.CoreCompileInputs.cache
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.dll
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.pdb
+F:\2 sem\Cripta\Labs\Cripta_Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.genruntimeconfig.cache

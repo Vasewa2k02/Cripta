@@ -1,0 +1,32 @@
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.deps.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.runtimeconfig.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.runtimeconfig.dev.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\ref\Cripta_Lab3.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.AssemblyInfoInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.AssemblyInfo.cs
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\ref\Cripta_Lab3.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.genruntimeconfig.cache
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.exe
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.deps.json
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.runtimeconfig.json
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.runtimeconfig.dev.json
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.dll
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.pdb
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.csproj.AssemblyReference.cache
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.AssemblyInfoInputs.cache
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.AssemblyInfo.cs
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.csproj.CoreCompileInputs.cache
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.dll
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\obj\Debug\net5.0\refint\Cripta_Lab3.dll
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.pdb
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.genruntimeconfig.cache
+D:\BSTU\Crypta\practika\Lab3\Cripta_Lab3\obj\Debug\net5.0\ref\Cripta_Lab3.dll

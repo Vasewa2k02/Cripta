@@ -1,0 +1,14 @@
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\bin\Debug\lab_13.exe.config
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\bin\Debug\lab_13.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\bin\Debug\lab_13.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\obj\Debug\lab_13.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\obj\Debug\lab_13.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\obj\Debug\lab_13.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\obj\Debug\lab_13.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\bin\Debug\lab_13.exe.config
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\bin\Debug\lab_13.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\bin\Debug\lab_13.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\obj\Debug\lab_13.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\obj\Debug\lab_13.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\obj\Debug\lab_13.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\obj\Debug\lab_13.pdb

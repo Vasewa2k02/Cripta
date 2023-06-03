@@ -1,0 +1,32 @@
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.deps.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.runtimeconfig.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.runtimeconfig.dev.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\ref\Cripta_Lab2.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.AssemblyInfoInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.AssemblyInfo.cs
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\ref\Cripta_Lab2.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.genruntimeconfig.cache
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.exe
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.deps.json
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.runtimeconfig.json
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.runtimeconfig.dev.json
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.dll
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.pdb
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.csproj.AssemblyReference.cache
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.AssemblyInfoInputs.cache
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.AssemblyInfo.cs
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.csproj.CoreCompileInputs.cache
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.dll
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\refint\Cripta_Lab2.dll
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.pdb
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\Cripta_Lab2.genruntimeconfig.cache
+D:\BSTU\Crypta\practika\Lab2\Cripta_Lab2\Cripta_Lab2\obj\Debug\net5.0\ref\Cripta_Lab2.dll

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <title>Crypto</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <br>
+    <h1>Шифр На основе аффинной системы подстановок Цезаря; a = 7, b = 10</h1><br>
+    <div class="section" style='background:#B4F5DA'>
+        <textarea id="caesarInput" class="item" name="" id="" cols="30" rows="40"></textarea>
+        <div class="buttons">
+            <div id='makeCaesarEncrypt' class="item button">Зашифровать</div>
+            <div id='makeCaesarDecrypt' class="item button">Расшифровать</div>
+            <label>Время выполнения:</label><input id='timeCaesar' type="text" style='height: 60px;text-align: center;' readonly>
+        </div>
+
+        <textarea id='caesarOutput' class="item" name="" id="" cols="30" rows="40"></textarea>
+    </div>
+
+
+    <section style='min-height: 50vh;display: flex; justify-content: space-around;'>
+        <div class="item" style='width: 40%;'>
+            <canvas id="chartCaesarInput"></canvas>
+        </div>
+        <div class="item" style='width: 40%;'>
+            <canvas id="chartCaesarOutput"></canvas>
+        </div>
+    </section>
+
+
+    <h1>Шифр Виженера, ключевое слово – собственная фамилия</h1><br>
+    <div class="section" style='background: #A5CEF5'>
+        <textarea id="vigenereInput" class="item" name="" id="" cols="30" rows="40"></textarea>
+        <div class="buttons">
+            <div id='makeVigenereEncrypt' class="item button">Зашифровать</div>
+            <div id='makeVigenereDecrypt' class="item button">Расшифровать</div>
+            <label>Время выполнения:</label><input id='timeVigenere' type="text" style='height: 60px; text-align: center;' readonly>
+        </div>
+        <textarea id="vigenereOutput" class="item" name="" id="" cols="30" rows="40"></textarea>
+    </div>
+
+    <section style='min-height: 50vh;display: flex; justify-content: space-around;'>
+        <div class="item" style='width: 40%;'>
+            <canvas id="chartVigenereInput"></canvas>
+        </div>
+        <div class="item" style='width: 40%;'>
+            <canvas id="chartVigenereOutput"></canvas>
+        </div>
+    </section>
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<script src="script.js"></script>
+
+</html>

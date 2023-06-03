@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="body-flex">
+        <table class="styled-table">
+            <thead>
+                <h3>Исходная матрица</h3>
+            </thead>
+            <tbody class="tableInput">
+
+            </tbody>
+        </table>
+
+        <table class="styled-table">
+            <thead>
+                <tr class='tableHeadInput'>
+                    <h3>Шифр-матрица</h3>
+                </tr>
+            </thead>
+
+            <tbody class="tableInput2">
+
+            </tbody>
+        </table>
+
+        <div class='place'>
+            <h1>Зашифрованный текст</h1>
+            <div class="encrypt"></div>
+            Время: <strong class="encryptTime"> </strong>
+
+            <h1>Расшифрованный текст</h1>
+            <div class="decrypt"></div>
+            Время: <strong class="decryptTime"> </strong>
+        </div>
+    </div>
+
+
+    <section style='min-height: 50vh;display: flex; justify-content: space-around;'>
+        <div class="item" style='width: 40%;'>
+            <canvas id="encryptChart"></canvas>
+        </div>
+        <div class="item" style='width: 40%;'>
+            <canvas id="decryptChart"></canvas>
+        </div>
+    </section>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+    <script src='script.js'></script>
+</body>
+
+</html>

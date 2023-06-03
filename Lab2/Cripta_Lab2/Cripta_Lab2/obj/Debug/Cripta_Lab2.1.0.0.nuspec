@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cripta_Lab2</id>
+    <version>1.0.0</version>
+    <authors>Cripta_Lab2</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.runtimeconfig.json" target="lib\net5.0\Cripta_Lab2.runtimeconfig.json" />
+    <file src="C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab2\Cripta_Lab2\bin\Debug\net5.0\Cripta_Lab2.dll" target="lib\net5.0\Cripta_Lab2.dll" />
+  </files>
+</package>
